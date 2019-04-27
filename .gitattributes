@@ -1,2 +1,2 @@
 *.html linguist-language=ptyhon
-*.Jupyter notebook linguist-language=ptyhon
+*.JupyterNotebook linguist-language=ptyhon
